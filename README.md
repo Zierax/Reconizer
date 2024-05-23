@@ -10,14 +10,14 @@ To install Reconizer, run the following command in your terminal:
 ```
 sudo ./install.sh
 ```
-This will install all necessary dependencies and set up Reconizer to be run from anywhere in your terminal.
+This will install all necessary dependencies 
 
 
 
 Usage
 To use Reconizer, simply type the following command:
 ```
-reconizer <domain>
+bash Reconizer <domain>
 ```
 
 
